@@ -2,7 +2,7 @@
   "name": "node-cache-manager-fifo",
   "version": "0.0.1",
   "description": "a simple fifo memory storage for node-cache-manager",
-  "main": "index.js",
+  "main": "lib/stores/fifo.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
