@@ -6,6 +6,23 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "ronny332",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ronny332/node-cache-manager-fifo.git"
+  },
+  "keywords": [
+    "cache"
+  ],
+  "bugs": {
+    "url": "https://github.com/ronny332/node-cache-manager-fifo/issues"
+  },
+  "homepage": "https://github.com/ronny332/node-cache-manager-fifo"
 }
